@@ -1,2 +1,3 @@
 #my README file
-hello!
+HELLO
+NEW LINE
